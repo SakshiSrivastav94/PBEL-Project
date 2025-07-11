@@ -60,9 +60,9 @@ This project aims to estimate the salary of software professionals using machine
 ## 📈 Model Performance
 
 - 📌 Metrics (example):
-  - R² Score: 0.85
-  - MAE: ₹12,000
-  - RMSE: ₹18,500
+  - R² Score: 0.88
+  - MAE: 10178.78
+  - RMSE: 14958.75
 - Trained using `Pipeline` to include preprocessing and model steps
 
 ---
